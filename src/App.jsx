@@ -31,7 +31,7 @@ const posts = [
 			{ type: "paragraph", content: "O nome do projet é Fire Feed  🚀 👉" },
 			{ type: "link", content: "kaic-sa/fire-feed" },
 		],
-		publishedAt: new Date("01-01-2022 11:30:00"),
+		publishedAt: new Date(2023, 7, 11),
 	},
 	{
 		id: 2,
@@ -53,7 +53,7 @@ const posts = [
 			{ type: "paragraph", content: "O nome do projet é Rocket  🚀 👉" },
 			{ type: "link", content: "caio.design/rocket" },
 		],
-		publishedAt: new Date("01-01-2022 11:30:00"),
+		publishedAt: new Date(2023, 7, 11),
 	},
 ];
 
